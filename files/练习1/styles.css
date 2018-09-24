@@ -199,7 +199,7 @@
 #u6 {
   border-width:0px;
   position:absolute;
-  left:242px;
+  left:208px;
   top:87px;
   width:18px;
   height:14px;
@@ -219,7 +219,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:116px;
+  width:140px;
   height:14px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
@@ -246,9 +246,9 @@
 #u7 {
   border-width:0px;
   position:absolute;
-  left:260px;
+  left:236px;
   top:87px;
-  width:116px;
+  width:140px;
   height:14px;
   font-size:9px;
   color:#999999;
@@ -259,7 +259,7 @@
   position:absolute;
   left:2px;
   top:2px;
-  width:112px;
+  width:136px;
   word-wrap:break-word;
 }
 #u8_div {
